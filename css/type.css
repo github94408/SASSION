@@ -1,0 +1,23 @@
+body, input, h1, h2, h3, h4, h5, a, h6, p, div, img, span, ul, li, ol, dl, dd, dt {
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+ul {
+  list-style: none;
+}
+
+/*# sourceMappingURL=type.css.map */
